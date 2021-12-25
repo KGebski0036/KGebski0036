@@ -1,6 +1,6 @@
 ### Hi, I'm a programmer
 
-![Donat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Donat](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
 
 <!--
 **KGebski0036/KGebski0036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
