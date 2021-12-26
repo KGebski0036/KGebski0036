@@ -3,7 +3,7 @@
 ![Donat](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KGebski0036)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KGebski0036&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KGebski0036/KGebski0036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
