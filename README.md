@@ -1,6 +1,8 @@
 ### Hi, I'm a programmer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KGebski0036&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGebski0036)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![Donat](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
