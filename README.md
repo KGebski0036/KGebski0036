@@ -7,29 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGebski0036&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/653508fab5d7a4eb01f608ba)](https://roadmap.sh)
+
 </p>
----
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/653508fab5d7a4eb01f608ba?variant=dark)](https://roadmap.sh)
-
----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KGebski0036&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-
-<!--
-**KGebski0036/KGebski0036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
