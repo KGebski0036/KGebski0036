@@ -13,8 +13,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KGebski0036&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 --
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/653508fab5d7a4eb01f608ba?variant=dark)](https://roadmap.sh)
----
-![Donat]([https://i.imgur.com/0uCgIsw.gif])
 
 <!--
 **KGebski0036/KGebski0036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
