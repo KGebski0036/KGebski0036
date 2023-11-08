@@ -81,9 +81,12 @@
   
   <div>
     <h2>HTB Academy</h2>
-    <img src="https://academy.hackthebox.com/storage/badges/academician.png" height="70" alt="Academician"  />
-    <img width="4" />
-    <img src="https://academy.hackthebox.com/storage/badges/philomath.png" height="70" alt="Philomath"  />
+    <a href="https://academy.hackthebox.com/achievement/badge/57005750-7349-11ee-b5a6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/academician.png" height="70" alt="Academician"/>
+    </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/8ec4d376-7d6f-11ee-b5a6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/philomath.png" height="70" alt="Philomath"/>
+    </a>
   </div>
 
 </div>
