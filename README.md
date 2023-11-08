@@ -78,5 +78,12 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   </div>
+  
+  <div>
+    <h2>HTB Academy</h2>
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" height="70" alt="Academician"  />
+    <img width="4" />
+    <img src="https://academy.hackthebox.com/storage/badges/philomath.png" height="70" alt="Philomath"  />
+  </div>
 
 </div>
