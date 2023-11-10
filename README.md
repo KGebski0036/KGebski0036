@@ -87,6 +87,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/8ec4d376-7d6f-11ee-b5a6-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/philomath.png" height="70" alt="Philomath"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/6aec9850-8017-11ee-b5a6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" height="70" alt="The eye that sees all"/>
+    </a>
   </div>
 
 </div>
