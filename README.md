@@ -90,6 +90,10 @@
     <a href="https://academy.hackthebox.com/achievement/badge/6aec9850-8017-11ee-b5a6-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" height="70" alt="The eye that sees all"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/79af640d-8681-11ee-b5a6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/start-building-your-arsenal.png" height="70" alt="start building your arsenal"/>
+    </a>
+    
   </div>
 
 </div>
