@@ -93,7 +93,15 @@
     <a href="https://academy.hackthebox.com/achievement/badge/79af640d-8681-11ee-b5a6-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/start-building-your-arsenal.png" height="70" alt="start building your arsenal"/>
     </a>
-    
+      <a href="https://academy.hackthebox.com/achievement/badge/ddbb1c86-9da8-11ee-bfb6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" height="70" alt="Our favorite seabird"/>
+    </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/3d4d7401-88e0-11ee-94f4-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/34501fc51a104adf5ccc915e28a06164/logo.png" height="70" alt="Growth Hacker - Inner Circle"/>
+    </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/5cd5f6d0-99af-11ee-bfb6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" height="70" alt="Unwavering User"/>
+    </a>
   </div>
 
 </div>
