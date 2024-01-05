@@ -1,11 +1,11 @@
-<svg fill="none" viewBox="0 0 500 400" width="500" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                table.steelBlueCols {
                   border: 4px solid #555555;
                   background-color: #555555;
-                  width: 500px;
+                  width: 400px;
                   text-align: center;
                   border-collapse: collapse;
                 }
