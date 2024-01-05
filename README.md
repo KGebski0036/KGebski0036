@@ -104,5 +104,25 @@
     </a>
   </div>
 
-   <img src="procjects.svg" width="400" height="400" alt="css-in-readme">
+  <div>
+    <h2>Projects</h2>
+    <table>
+      <thead>
+          <tr>
+              <th>Name/Link</th>
+              <th>Description</th>
+              <th>Team</th>
+              <th>Technologies</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>Libft</td>
+              <td>cell2_1</td>
+              <td>cell3_1</td>
+              <td>cell4_1</td>
+          </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
