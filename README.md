@@ -134,6 +134,12 @@
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
           </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/Born2beroot">Born2beroot</a></td>
+              <td align="center">Set up own operating system while implementing strict rules</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></td>
+          </tr>
       </tbody>
     </table>
   </div>
