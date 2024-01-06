@@ -173,6 +173,17 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
               </td>
          </tr>
+         <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/cub3d">Cub3D</a></td>
+              <td align="center">This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It explore ray-casting and 3D graphics.`42 Project`</td>
+              <td align="center">
+                <a href="https://github.com/cj4ck"><img src="https://avatars.githubusercontent.com/u/75099354?s=64&v=4" height="30" alt="cjackows"  /></a>
+                <img src="https://avatars.githubusercontent.com/u/148053910?s=200&v=4" height="30" alt="pentacode"  />
+              </td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+              </td>
+         </tr>
       </tbody>
     </table>
   </div>
