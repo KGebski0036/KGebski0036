@@ -118,7 +118,13 @@
       <tbody>
           <tr>
               <td align="center"><a href="https://github.com/KGebski0036/Libft">Libft</a></td>
-              <td align="center">Recreation of few functions from C standard library.</td>
+              <td align="center">Recreation of few functions from C standard library. 42 Project</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
+          </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/ft_printf">ft_printf</a></td>
+              <td align="center">This project is about recoding printf from standard C library. 42 Project</td>
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
           </tr>
