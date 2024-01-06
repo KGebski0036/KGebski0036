@@ -149,6 +149,12 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
               </td>
           </tr>
+           <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/push_swap">push_swap</a></td>
+              <td align="center">This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves.</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
+          </tr>
       </tbody>
     </table>
   </div>
