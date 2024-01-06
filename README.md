@@ -161,6 +161,18 @@
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
           </tr>
+         <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/Minishells">Minishell</a></td>
+              <td align="center">The objective of this project is for you to create a simple shell. Minishell is a project aimed at building a Unix-like shell with a variety of functionalities. 42 Project</td>
+              <td align="center">
+                <a href="https://github.com/cj4ck"><img src="https://avatars.githubusercontent.com/u/75099354?s=64&v=4" height="30" alt="cjackows"  /></a>
+                <img src="https://avatars.githubusercontent.com/u/148053910?s=200&v=4" height="30" alt="pentacode"  />
+              </td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+              </td>
+         </tr>
       </tbody>
     </table>
   </div>
