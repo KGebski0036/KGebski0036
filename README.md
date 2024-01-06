@@ -117,10 +117,10 @@
       </thead>
       <tbody>
           <tr>
-              <td>Libft</td>
-              <td>cell2_1</td>
-              <td>cell3_1</td>
-              <td>cell4_1</td>
+              <td align="center"><a href="https://github.com/KGebski0036/Libft">Libft</a></td>
+              <td align="center">Recreation of few functions from C standard library.</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
           </tr>
       </tbody>
     </table>
