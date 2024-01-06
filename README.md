@@ -128,6 +128,12 @@
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
           </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/get_next_line">get_next_line</a></td>
+              <td align="center">Reading text from a file or standard input line by line. 42 Project</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
+          </tr>
       </tbody>
     </table>
   </div>
