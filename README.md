@@ -140,6 +140,15 @@
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></td>
           </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/minitalk">Minitalk</a></td>
+              <td align="center">The purpose of this project is to code a small data exchange program using UNIX signals.</td>
+              <td align="center">Solo</td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+              </td>
+          </tr>
       </tbody>
     </table>
   </div>
