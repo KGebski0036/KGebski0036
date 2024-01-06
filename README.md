@@ -136,13 +136,13 @@
           </tr>
           <tr>
               <td align="center"><a href="https://github.com/KGebski0036/Born2beroot">Born2beroot</a></td>
-              <td align="center">Set up own operating system while implementing strict rules</td>
+              <td align="center">Set up own operating system while implementing strict rules. 42 Project</td>
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></td>
           </tr>
           <tr>
               <td align="center"><a href="https://github.com/KGebski0036/minitalk">Minitalk</a></td>
-              <td align="center">The purpose of this project is to code a small data exchange program using UNIX signals.</td>
+              <td align="center">The purpose of this project is to code a small data exchange program using UNIX signals. 42 Project</td>
               <td align="center">Solo</td>
               <td align="center">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -151,7 +151,13 @@
           </tr>
            <tr>
               <td align="center"><a href="https://github.com/KGebski0036/push_swap">push_swap</a></td>
-              <td align="center">This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves.</td>
+              <td align="center">This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. 42 Project</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
+          </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/Philosophers">Philosophers</a></td>
+              <td align="center">This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger. 42 Project</td>
               <td align="center">Solo</td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></td>
           </tr>
