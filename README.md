@@ -202,6 +202,16 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
               </td>
           </tr>
+         <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/webserv">Webserv</a></td>
+              <td align="center">This project is about writing own HTTP server. `42 Project`</td>
+              <td align="center">
+                <a href="https://github.com/cj4ck"><img src="https://avatars.githubusercontent.com/u/75099354?s=64&v=4" height="30" alt="cjackows"  /></a>
+                <a href="https://github.com/gunta-skrastina"><img src="https://avatars.githubusercontent.com/u/57624291?v=4" height="30" alt="gunta"  /></a>
+                <img src="https://avatars.githubusercontent.com/u/148053910?s=200&v=4" height="30" alt="pentacode"  />
+              </td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></td>
+          </tr>
       </tbody>
     </table>
   </div>
