@@ -194,7 +194,7 @@
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></td>
           </tr>
           <tr>
-              <td align="center"><a href="https://github.com/KGebski0036/Inception">Inception</a></td>
+              <td align="center"><a href="https://github.com/KGebski0036/Incepction">Incepction</a></td>
               <td align="center">This project aims to broaden knowledge of system administration by using Docker. `42 Project`</td>
               <td align="center">Solo</td>
               <td align="center">
