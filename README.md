@@ -184,6 +184,12 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
               </td>
          </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/42cpp">42CPP</a></td>
+              <td align="center">This comprehensive C++ learning project is structured around various modules, each designed to delve deep into specific aspects of C++ programming. `42 Project`</td>
+              <td align="center">Solo</td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></td>
+          </tr>
       </tbody>
     </table>
   </div>
