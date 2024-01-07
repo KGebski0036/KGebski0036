@@ -210,7 +210,31 @@
                 <a href="https://github.com/gunta-skrastina"><img src="https://avatars.githubusercontent.com/u/57624291?v=4" height="30" alt="gunta"  /></a>
                 <img src="https://avatars.githubusercontent.com/u/148053910?s=200&v=4" height="30" alt="pentacode"  />
               </td>
-              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html  logo"  />
+	              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="html  logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="html  logo"  />
+              </td>
+          </tr>
+          <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/ft_transcendence">ft_transcendence</a></td>
+              <td align="center">The ft_transcendence project is about creating a website for the mighty Pong contest. The website will allow users to play Pong with others in real-time multiplayer online games. `42 Project`</td>
+              <td align="center">
+                <a href="https://github.com/cj4ck"><img src="https://avatars.githubusercontent.com/u/75099354?s=64&v=4" height="30" alt="cjackows"  /></a>
+                <a href="https://github.com/gunta-skrastina"><img src="https://avatars.githubusercontent.com/u/57624291?v=4" height="30" alt="gunta"  /></a>
+                <a href="https://github.com/alistair-kane"><img src="https://avatars.githubusercontent.com/u/97118723?v=4" height="30" alt="alistair"  /></a>
+                <a href="https://github.com/ialinaok"><img src="https://avatars.githubusercontent.com/u/89199739?v=4" height="30" alt="alina"  /></a>
+                <img src="https://avatars.githubusercontent.com/u/148053910?s=200&v=4" height="30" alt="pentacode"  />
+              </td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript  logo"  />
+              	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular  logo"  />
+              	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs  logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="html  logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html  logo"  />
+	              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="html  logo"  />
+              </td>
           </tr>
       </tbody>
     </table>
