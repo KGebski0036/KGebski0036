@@ -105,6 +105,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/5cd5f6d0-99af-11ee-bfb6-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" height="70" alt="Unwavering User"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/1d9d444e-b234-11ee-bfb6-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/crawl-walk-run.png" height="70" alt="Crawl, walk, run"/>
+    </a>
   </div>
 
   <div>
