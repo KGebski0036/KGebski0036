@@ -108,6 +108,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/1d9d444e-b234-11ee-bfb6-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/crawl-walk-run.png" height="70" alt="Crawl, walk, run"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/d3925833-b9ef-11ee-a670-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/8644292aaa052ff2971d3541256ee605/logo.png" height="70" alt="Constant Champion"/>
+    </a>
   </div>
 
   <div>
