@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    Hi, I'm Karol a student of '42 school' and the Wrocław University of Science and Technology. A programmer with several years of experience and a beginner in the cybersecurity industry.</h3>
+    Hi, I'm Karol a student of <a href="https://42wolfsburg.de/">42 school</a> and the <a href="https://pwr.edu.pl/">Wrocław University of Science and Technology</a>. A programmer with several years of experience and a beginner in the cybersecurity industry.</h3>
 </div>
 
 
@@ -242,6 +242,20 @@
 	              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="html  logo"  />
               </td>
           </tr>
+		<tr>
+              <td align="center"><a href="https://github.com/KGebski0036/CodersSchool">CodersSchool</a></td>
+              <td align="center">This GitHub project contains my solutions to tasks and homework assignments from the Coderschool course.</td>
+              <td align="center">
+                Solo
+		<a href="https://coders.school/">
+                <img src="https://avatars.githubusercontent.com/u/44933664?s=48&v=4" height="30" alt="CodersSchool  logo" />
+		</a>
+              </td>
+              <td align="center">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus  logo"  />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+              </td>
+         </tr>
       </tbody>
     </table>
   </div>
