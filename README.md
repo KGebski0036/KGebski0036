@@ -244,7 +244,7 @@
           </tr>
 		<tr>
               <td align="center"><a href="https://github.com/KGebski0036/CodersSchool">CodersSchool</a></td>
-              <td align="center">This GitHub project contains my solutions to tasks and homework assignments from the Coderschool course.</td>
+              <td align="center">This GitHub project contains my solutions to tasks and homework assignments from the CodersSchool course.</td>
               <td align="center">
                 Solo
 		<a href="https://coders.school/">
