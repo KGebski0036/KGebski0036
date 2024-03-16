@@ -111,6 +111,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/d3925833-b9ef-11ee-a670-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/8644292aaa052ff2971d3541256ee605/logo.png" height="70" alt="Constant Champion"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/61621672-e338-11ee-b18d-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/look-ma-no-mouse.png" height="70" alt="look-ma-no-mouse"/>
+    </a>
   </div>
 
   <div>
