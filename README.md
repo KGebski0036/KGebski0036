@@ -117,6 +117,10 @@
     <a href="https://academy.hackthebox.com/achievement/badge/30815607-e390-11ee-b18d-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/do-things-the-traditional-way.png" height="70" alt="Do things the traditional way"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/d2b3018d-e64f-11ee-b18d-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/f0cb51ce20a27147baa2a52a9dbc176e/logo.png" height="70" alt="Loyal Leader"/>
+    </a>
+	  
   </div>
 
   <div>
