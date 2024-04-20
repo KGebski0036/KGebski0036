@@ -120,7 +120,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/d2b3018d-e64f-11ee-b18d-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/f0cb51ce20a27147baa2a52a9dbc176e/logo.png" height="70" alt="Loyal Leader"/>
     </a>
-	  
+	<a href="https://academy.hackthebox.com/achievement/badge/e8ce3e29-ff30-11ee-b18d-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/everything-is-connected.png" height="70" alt="Everything is connected"/>
+    </a>  
   </div>
 
   <div>
