@@ -257,7 +257,7 @@
 	              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="html  logo"  />
               </td>
           </tr>
-		<tr>
+	  <tr>
               <td align="center"><a href="https://github.com/KGebski0036/CodersSchool">CodersSchool</a></td>
               <td align="center">This GitHub project contains my solutions to tasks and homework assignments from the CodersSchool course.</td>
               <td align="center">
@@ -269,6 +269,14 @@
               <td align="center">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus  logo"  />
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+              </td>
+         </tr>
+	 <tr>
+              <td align="center"><a href="https://github.com/KGebski0036/Algorithms">Algorithms</a></td>
+              <td align="center">This GitHub repository contains my implementations of algorithms that I learnt from my books and courses.</td>
+              <td align="center">Solo</td>
+              <td align="center">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus  logo"  />
               </td>
          </tr>
       </tbody>
