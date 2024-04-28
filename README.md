@@ -126,6 +126,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/fe552e0c-000e-11ef-b18d-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/developer.png" height="70" alt="Developer"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/d2062a9a-0565-11ef-b18d-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="70" alt="Your request is my demand"/>
+    </a>
   </div>
 
   <div>
