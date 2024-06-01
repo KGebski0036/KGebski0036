@@ -129,6 +129,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/d2062a9a-0565-11ef-b18d-bea50ffe6cb4">
       <img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="70" alt="Your request is my demand"/>
     </a>
+    <a href="https://academy.hackthebox.com/achievement/badge/9e514072-2037-11ef-b18d-bea50ffe6cb4">
+      <img src="https://academy.hackthebox.com/storage/badges/your-white-belt-training-begins.png" height="70" alt="Your white belt training begins"/>
+    </a>
   </div>
 
   <div>
