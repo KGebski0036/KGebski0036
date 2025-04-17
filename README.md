@@ -133,7 +133,12 @@
       <img src="https://academy.hackthebox.com/storage/badges/your-white-belt-training-begins.png" height="70" alt="Your white belt training begins"/>
     </a>
   </div>
-
+  
+  <div>
+	<h2>TryHackMe</h2>
+	<img src="https://tryhackme-badges.s3.amazonaws.com/kgebski68.png" alt="Image Badge" />
+  </div>
+  
   <div>
     <h2>Projects</h2>
     <table>
