@@ -136,7 +136,7 @@
   
   <div>
 	<h2>TryHackMe</h2>
-	<img src="https://tryhackme-badges.s3.amazonaws.com/kgebski68.png" alt="Image Badge" />
+	<img src="https://tryhackme-badges.s3.amazonaws.com/kgebski.png" alt="Your Image Badge" />
   </div>
   
   <div>
