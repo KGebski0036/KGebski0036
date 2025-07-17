@@ -303,6 +303,15 @@
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python  logo"  />
               </td>
          </tr>
+	<tr>
+              <td align="center"><a href="https://github.com/KGebski0036/libasm">libasm</a></td>
+              <td align="center">Reimplementation of several essential C standard library functions using x86_64 assembly (NASM).`42 Project`</td>
+              <td align="center">Solo</td>
+              <td align="center">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/250px-Netwide_Assembler.svg.png" height="30" alt="nasm logo" />
+              </td>
+         </tr>
       </tbody>
     </table>
   </div>
