@@ -7,9 +7,8 @@
 ###
 
 <div align="center">
-  
   <div>
-    <img src="https://api.roadmap.sh/v1-badge/tall/653508fab5d7a4eb01f608ba">
+    <img src="https://roadmap.sh/card/tall/653508fab5d7a4eb01f608ba?variant=dark">
   </div>
   
   <div>
